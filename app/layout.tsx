@@ -18,6 +18,9 @@ export const metadata: Metadata = {
     description: 'Find verified flats, plots, and apartments with Dream Square Property. Trusted real estate services and premium property deals.',
     type: 'website',
   },
+  verification: {
+    google: "ZS7Ji6uzAvCK4ZWV-kfNVwciVcpp0w9o9JPaGPKRc4Q",
+  },
 };
 
 export default function RootLayout({children}: {children: React.ReactNode}) {
