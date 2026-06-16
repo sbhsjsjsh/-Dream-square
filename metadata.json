@@ -1,0 +1,8 @@
+{
+  "name": "Dream Square Property",
+  "description": "Find your dream property in Mumbai with Dream Square Property",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
